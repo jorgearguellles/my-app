@@ -1,0 +1,40 @@
+.video-container{
+  width: 36.3rem;
+  height: 25.4rem;
+  margin-bottom: 8.5rem;
+}
+
+.video-border{
+  width: 36.2rem;
+  height: 18.5rem;
+  border: 1px solid #F4CCCC;
+  position: relative;
+}
+
+.video-img{
+  margin: 0;
+  width: 36rem;
+  height: 18.3rem;
+  object-fit: cover;
+}
+
+.video-time{
+  background-color: black;
+  color: white;
+  position: relative;
+  right: -32.3rem;
+  bottom: 2.6rem;
+  padding: 0.2rem;
+}
+
+.video-details_title{
+  font-weight: bold;
+  font-size: 2.2rem;
+  line-height: 2.8rem;
+}
+
+.video-details_info{
+  font-weight: normal;
+  font-size: 1.6rem;
+  line-height: 2rem;
+}

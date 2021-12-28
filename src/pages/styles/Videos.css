@@ -1,0 +1,6 @@
+.videos-section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 7rem 7rem 0;
+}
