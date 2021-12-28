@@ -1,0 +1,15 @@
+.articles-title{
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.articles-container{
+  width: inherit;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 9.1rem;
+}
