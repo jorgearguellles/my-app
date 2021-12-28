@@ -3,7 +3,6 @@ import Hero from "./pages/Hero";
 import Videos from "./pages/Videos";
 import Articles from "./pages/Articles";
 import Footer from "./pages/Footer";
-import './App.css';
 
 function App() {
   return (

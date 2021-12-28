@@ -1,6 +1,19 @@
-.videos-section{
+.section-videos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.videos-container{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 7rem 7rem 0;
 }
+
+/* 
+
+en 1230 se comeinza a reducir el tamaño del contenedor del video con sus tamaños de letras tambien
+
+en 870 el tamaño del contenedor ya es de Mobile, sus fonts tambien
+*/
