@@ -38,3 +38,30 @@
   font-size: 1.6rem;
   line-height: 2rem;
 }
+
+@media (max-width: 600px){
+  .video-container{
+    width: 24.6rem;
+    height: 18.7rem;
+  }
+  .video-border{
+    width: 24.6rem;
+    height: 12.6rem;
+  }
+  .video-img{
+    width: 24.4rem;
+    height: 12.4rem;
+  }
+  .video-time{
+    right: -20.8rem;
+    bottom: 2.6rem;
+  }
+  
+}
+
+/* 
+
+en 1230 se comeinza a reducir el tamaño del contenedor del video con sus tamaños de letras tambien
+
+en 870 el tamaño del contenedor ya es de Mobile, sus fonts tambien
+*/

@@ -1,5 +1,5 @@
 import "./styles/Articles.css";
-import Article from "../components/Article";
+import Article from "./Article";
 
 
 const Articles = () => {

@@ -2,7 +2,7 @@ import React from 'react'
 import logo from "../assets/icons/logoPraxu.png";
 import login from "../assets/icons/login.png";
 import wallet from "../assets/icons/wallet.png";
-import Search from "../components/Search";
+import Search from "./Search";
 import "./styles/Header.css";
 
 const Header = () => {

@@ -39,3 +39,16 @@
   font-size: 1.2rem;
   line-height: 1.5rem;
 }
+
+@media (max-width: 600px){
+  .article-container{
+    width: 24.6rem;
+    height: 18.7rem;
+  }
+  
+  .article-border{
+    width: 20.4rem;
+    height: 14.5rem;
+  }
+
+}

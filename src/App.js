@@ -1,8 +1,8 @@
-import Header from "./pages/Header"
-import Hero from "./pages/Hero";
-import Videos from "./pages/Videos";
-import Articles from "./pages/Articles";
-import Footer from "./pages/Footer";
+import Header from "./components/Header"
+import Hero from "./components/Hero";
+import Videos from "./components/Videos";
+import Articles from "./components/Articles";
+import Footer from "./components/Footer";
 
 function App() {
   return (

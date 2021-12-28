@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 1px solid green;
 }
 
 .videos-container{
@@ -11,9 +12,3 @@
   padding: 7rem 7rem 0;
 }
 
-/* 
-
-en 1230 se comeinza a reducir el tamaño del contenedor del video con sus tamaños de letras tambien
-
-en 870 el tamaño del contenedor ya es de Mobile, sus fonts tambien
-*/
