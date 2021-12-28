@@ -28,16 +28,17 @@
   line-height: 28px;
   border: 2px solid #fff;
   text-decoration: none;
+  color: #8F8A9A;
 }
 
 .header-nav a:hover{
   font-weight: bold;
   border: 1px solid #fff;
+  color: #131313;
 }
 
 .header-nav img{
   border: 2px solid #fff;
-
   width: 3rem;
   height: 3rem;
 }
