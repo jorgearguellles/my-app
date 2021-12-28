@@ -1,10 +1,19 @@
+import Header from "./pages/Header"
+import Hero from "./pages/Hero";
+import Videos from "./pages/Videos";
+import Articles from "./pages/Articles";
+import Footer from "./pages/Footer";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      jorge
-    </div>
+    <>
+      <Header />
+      <Hero />
+      <Videos />
+      <Articles />
+      <Footer />
+    </>
   );
 }
 

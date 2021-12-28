@@ -1,0 +1,21 @@
+.hero-container{
+  width: 144rem;
+  height: 43.6rem;
+  background-image: url(../../assets/images/image-hero.png);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-title{
+  font-size: 144px;
+  color: white;
+  margin-bottom: 5rem;
+}
+
+.background{
+  padding: 0.5rem 1.5rem 0.5rem 0.5rem;
+  background-color: red;
+  border-top-right-radius: 50px;
+}

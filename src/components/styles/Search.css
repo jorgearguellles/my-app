@@ -1,0 +1,23 @@
+.container{
+  width: 54.5rem;
+  height: 4.7rem;
+  background-color: white;
+  border: 1px solid #F4CCCC;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container input{
+  width: 45rem;
+  height: 3.4rem;
+  outline: none;
+  border:none;
+  font-size: 1.8rem;
+}
+
+img{
+  width: 1.8rem;
+  height: 1.8rem;
+}
