@@ -8,7 +8,7 @@ import redditIMG from '../assets/icons/reddit.png';
 
 const Footer = () => {
   return (
-    <div className='footer-container'>
+    <footer className='footer-container'>
       <div className='footer-pink'></div>
       <div className='footer-container_data'>
         <div className='footer-data_left'>
@@ -49,7 +49,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-    </div>
+    </footer>
   )
 }
 
