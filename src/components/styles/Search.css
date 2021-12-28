@@ -21,3 +21,9 @@ img{
   width: 1.8rem;
   height: 1.8rem;
 }
+
+@media (max-width: 900px){
+  .container{
+    display: none;
+  }
+}

@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Videos from "./components/Videos";
 import Articles from "./components/Articles";
 import Footer from "./components/Footer";
+import MobileMenu from "./components/MobileMenu";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Videos />
       <Articles />
       <Footer />
+      <MobileMenu />
     </>
   );
 }

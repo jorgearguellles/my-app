@@ -1,16 +1,16 @@
 .footer-container{
-  width: 144rem;
+  width: 100vw;
   height: 11.1rem;
 }
 
 .footer-pink{
-  width: 144rem;
+  width: 100vw;
   height: 11.1rem;
   background: #F4CCCC;
 }
 
 .footer-container_data{
-  width: 144rem;
+  width: 100vw;
   height: 43.2rem;
   background: linear-gradient(180.14deg, #F66060 -10.24%, #F43737 97.78%);
   display: flex;
@@ -79,4 +79,19 @@
 .footer-data_right ul li a img{
   width: 3.5rem;
   height: 3.5rem;
+}
+
+@media (max-width: 870px){
+  .footer-container_data{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-data_right{
+    margin: 5rem 0 7rem;
+  }
+  .footer-data_left{
+    margin: 5rem 0;
+    width: 33rem;
+  }
 }

@@ -1,0 +1,28 @@
+.mobile-menu-container{
+  width: 100vw;
+  height: 6rem;
+  border-top: 1px solid red;
+  background-color: white;
+  padding: 1rem;
+  display: none;
+  position: fixed;
+  bottom: 0px;
+}
+
+.mobile-menu{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.mobile-menu img {
+  width: 35px;
+  height: 35px;
+}
+
+@media (max-width: 1300px){
+  .mobile-menu-container{
+    display:block;
+  }
+}
